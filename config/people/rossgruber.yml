@@ -77,7 +77,7 @@ attributes:
         -
             name: BracketHighlighter
             source: https://github.com/facelessuser/BracketHighlighter.git
-            branch: ST3
+            branch: st3
         -
             name: Theme - Aqua
             source: https://github.com/cafarm/aqua-theme.git
@@ -89,7 +89,7 @@ attributes:
         -
             name: ApplySyntax
             source: https://github.com/facelessuser/ApplySyntax.git
-            branch: ST3
+            branch: st3
         -
             name: Theme - Flatland
             source: git://github.com/thinkpixellab/flatland.git
@@ -97,9 +97,9 @@ attributes:
     dotfiles:
     git:
         name: Ross Gruber
-        email: ross.gruber@gmail.com
+        email: rgruber@bottlenose.com
     osxdefaults:
-        computername: ross-air
+        computername: ross-macbook-pro
     authorization:
         sudo:
             users:

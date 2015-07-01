@@ -77,7 +77,7 @@ attributes:
         -
             name: BracketHighlighter
             source: https://github.com/facelessuser/BracketHighlighter.git
-            branch: master
+            branch: ST2
         -
             name: Theme - Aqua
             source: https://github.com/cafarm/aqua-theme.git
@@ -89,7 +89,7 @@ attributes:
         -
             name: ApplySyntax
             source: https://github.com/facelessuser/ApplySyntax.git
-            branch: master
+            branch: ST2
         -
             name: Theme - Flatland
             source: git://github.com/thinkpixellab/flatland.git

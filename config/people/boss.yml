@@ -84,5 +84,5 @@ attributes:
             - virtualbox
             - superduper
             - shiftit
-	    - iterm2
+            - iterm2
             - zsh

@@ -57,7 +57,7 @@ attributes:
             - elasticsearch
             - icu4c
         cask_apps:
-	    - atom
+            - atom
     gems:
         - sass
         - git-up

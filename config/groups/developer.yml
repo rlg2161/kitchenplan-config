@@ -55,20 +55,15 @@ attributes:
             - rsync
             - mongodb
             - elasticsearch
-            #- node010
-            - cassandra
-            - rabbitmq
             - icu4c
-    nodejs:
-        apps:
-            - uglify-js
-            - uglifycss
-            - bower
-            - grunt
-            - grunt-cli
+        cask_apps:
+	    - atom
     gems:
         - sass
         - git-up
         - kstrano
         - deliver
         - crafter
+    apm:
+      packages:
+        - go-plus

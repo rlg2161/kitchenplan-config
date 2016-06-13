@@ -52,7 +52,6 @@ attributes:
             - git-flow
             - siege
             - watch
-            - rsync
             - mongodb
             - elasticsearch
             - icu4c
